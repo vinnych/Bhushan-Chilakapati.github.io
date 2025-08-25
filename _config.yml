@@ -1,0 +1,7 @@
+# Site settings
+title: Bhushan Chilakapati - Professional Portfolio
+description: "A showcase of my projects and thoughts on software development. Feel free to connect with me!"
+
+# The theme for your site
+# You can find other themes by searching for "Jekyll themes for GitHub Pages"
+theme: jekyll-theme-minimal 
